@@ -1,4 +1,10 @@
+body {
+   margin-left: 65px;
+   margin-right: 65px; 
+}
 .title {  
+    margin-top: 53px;
+    margin-bottom: 53px;
     background-color: black;
     color: white;
 }
